@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(253, 243, 230);
+}
+
+button {
+  display: inline;
+  color: darkgreen;
+  margin-left: 40px;
+  height: 30px;
+  font-weight: bold;
+}
+
+.heading-input {
+  text-align: center;
+  margin: 30px;
+}
+
+#submit-text {
+  height: 30px;
+  font-weight: bold;
+}
